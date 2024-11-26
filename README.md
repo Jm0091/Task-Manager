@@ -2,13 +2,6 @@
 
 A simple task manager app built with React, Redux, and Docker to demonstrate state management and containerized deployment practices. This project also explores key production-level concepts like middleware, logging, monitoring, and asynchronous operations with Thunks.
 
-## Features ✨
-
-- **Task Management**: Add, delete, and toggle task completion ✅.
-- **State Management**: Implemented Redux to manage state efficiently, addressing issues like prop drilling and unnecessary re-renders 🔄.
-- **Responsive Design**: Designed using Tailwind CSS for a clean, mobile-friendly interface 📱.
-- **Dockerized**: Used Docker to containerize the app for easy deployment and consistency across environments 🐳.
-
 ## Technologies Used 💻
 
 - **React** - Frontend framework for building the user interface.
@@ -16,6 +9,17 @@ A simple task manager app built with React, Redux, and Docker to demonstrate sta
 - **Docker** - Containerization for consistent and isolated environments.
 - **Tailwind CSS** - Utility-first CSS framework for styling.
 - **Nginx** - For serving the production build of the React app in a Docker container.
+
+## Screenshot 📸
+![Task Manager Screenshot](/TaskManager_SS.png)
+
+
+## Features ✨
+
+- **Task Management**: Add, delete, and toggle task completion ✅.
+- **State Management**: Implemented Redux to manage state efficiently, addressing issues like prop drilling and unnecessary re-renders 🔄.
+- **Responsive Design**: Designed using Tailwind CSS for a clean, mobile-friendly interface 📱.
+- **Dockerized**: Used Docker to containerize the app for easy deployment and consistency across environments 🐳.
 
 ## Key Learnings 📚
 
